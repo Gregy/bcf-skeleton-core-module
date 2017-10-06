@@ -1,6 +1,6 @@
 #ifndef _APPLICATION_H
 #define _APPLICATION_H
 
-#include <bcl.h>
+#include <bc_common.h>
 
-#endif // _APPLICATION_H
+#endif
